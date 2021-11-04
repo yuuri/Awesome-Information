@@ -23,3 +23,17 @@ Share Awesome Information
 
 9.[文件的解析](https://github.com/fcharlie/fcharlie.github.io/blob/master/_posts/2019/2019-01-25-FileParsing.md)
 
+
+
+---
+
+
+
+## 视频讲座
+
+1.[计算机系统研究的一些体会-陈海波（ChinaSys分享）](https://www.bilibili.com/video/BV1Ap4y167w3)
+
+2.[IPADS新人培训第一讲：Shell](https://www.bilibili.com/video/BV1y44y1v7c3)
+
+3.[IPADS新人培训第二讲：cmake](https://www.bilibili.com/video/BV14h41187FZ)
+
