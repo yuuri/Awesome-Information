@@ -23,6 +23,8 @@ Share Awesome Information
 
 9.[文件的解析](https://github.com/fcharlie/fcharlie.github.io/blob/master/_posts/2019/2019-01-25-FileParsing.md)
 
+10.[Git 常用命令](https://github.com/yuuri/GitCommand)
+
 
 
 ---
@@ -36,4 +38,20 @@ Share Awesome Information
 2.[IPADS新人培训第一讲：Shell](https://www.bilibili.com/video/BV1y44y1v7c3)
 
 3.[IPADS新人培训第二讲：cmake](https://www.bilibili.com/video/BV14h41187FZ)
+
+
+
+
+
+---
+
+## 其他
+
+[正则表达式30分钟入门教程](https://deerchao.cn/tutorials/regex/regex.htm)  
+
+[数据库内核月报分类整理](https://github.com/tangwz/db-monthly)  
+
+[监控日志系列---- Filebeat原理](https://kingjcy.github.io/post/monitor/log/collect/filebeat/filebeat-principle/)
+
+
 
