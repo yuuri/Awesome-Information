@@ -23,7 +23,31 @@ Share Awesome Information
 
 9.[文件的解析](https://github.com/fcharlie/fcharlie.github.io/blob/master/_posts/2019/2019-01-25-FileParsing.md)
 
+10.[Git 常用命令](https://github.com/yuuri/GitCommand) 
 
+
+
+---
+
+
+
+## 计算机基础
+
+http://jyywiki.cn/ 
+
+https://sashimi-yzh.github.io/ 
+
+[lazyparser](https://space.bilibili.com/296494084)
+
+https://www.zhihu.com/people/shiningning 
+
+[程序语言与编译技术相关资源](https://github.com/shining1984/PL-Compiler-Resource)
+
+[计算机体系结构基础](https://foxsen.github.io/archbase/) 
+
+[静态程序分析](https://spa-book.pblo.gq/) （结合视频讲座第【4】）
+
+ 
 
 ---
 
@@ -36,4 +60,44 @@ Share Awesome Information
 2.[IPADS新人培训第一讲：Shell](https://www.bilibili.com/video/BV1y44y1v7c3)
 
 3.[IPADS新人培训第二讲：cmake](https://www.bilibili.com/video/BV14h41187FZ)
+
+4.[南京大学《软件分析》课程01（Introduction）](https://www.bilibili.com/video/BV1b7411K7P4) 
+
+5.[南京大学2022操作系统-蒋炎岩](https://www.bilibili.com/video/BV1Cm4y1d7Ur) 
+
+6.[2020 南京大学计算机系统基础-jyy](https://www.bilibili.com/video/BV1qa4y1j7xk/)  
+
+ 
+
+
+
+## 数据库
+
+https://bohutang.me/  
+
+https://github.com/digoal/blog 
+
+[数据库内核月报分类整理](https://github.com/tangwz/db-monthly) 
+
+[Readings in Databases](https://github.com/rxin/db-readings) 
+
+[Awesome Redis](https://github.com/JamzyWang/awesome-redis) 
+
+[drdr.xp Blog](http://drmingdrmer.github.io/) 
+
+[分布式研究小院.](https://blog.openacid.com/) 
+
+
+
+ 
+
+---
+
+## 其他
+
+[正则表达式30分钟入门教程](https://deerchao.cn/tutorials/regex/regex.htm)  
+
+[监控日志系列---- Filebeat原理](https://kingjcy.github.io/post/monitor/log/collect/filebeat/filebeat-principle/)
+
+
 
