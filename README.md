@@ -31,6 +31,21 @@ Share Awesome Information
 
 
 
+# 计算机系统基础
+
+[计算机系统基础 课程实验 2021](https://nju-projectn.github.io/ics-pa-gitbook/ics2021/)
+
+- 外部资源
+  - PA习题课 (2021 秋季学期, [王慧妍](https://cocowhy1013.github.io/)老师): [课程资料](http://jyywiki.cn/ICS/2021/)
+  - 中国大学MOOC的ICS理论课 (袁春风老师): [上](https://www.icourse163.org/course/NJU-1001625001), [中](https://www.icourse163.org/course/NJU-1001964032), [下](https://www.icourse163.org/course/NJU-1002532004)
+  - [南大SICP编程课](https://nju-sicp.bitbucket.io/)
+  - [OS课](http://jyywiki.cn/OS/2021/) (2021 春季学期, [蒋炎岩](http://ics.nju.edu.cn/~jyy)老师)
+  - PA习题课 (2020 秋季学期, [蒋炎岩](http://ics.nju.edu.cn/~jyy)老师): [课程资料](http://jyywiki.cn/ICS/2020/), [B站录播](https://www.bilibili.com/video/BV1qa4y1j7xk/)
+
+
+
+
+
 ## 计算机基础
 
 http://jyywiki.cn/ 
@@ -66,6 +81,8 @@ https://www.zhihu.com/people/shiningning
 5.[南京大学2022操作系统-蒋炎岩](https://www.bilibili.com/video/BV1Cm4y1d7Ur) 
 
 6.[2020 南京大学计算机系统基础-jyy](https://www.bilibili.com/video/BV1qa4y1j7xk/)  
+
+参考讲义 
 
  
 
