@@ -106,6 +106,27 @@ https://github.com/digoal/blog
 
 
 
+
+
+
+
+1. 德哥的博客 https://github.com/digoal/blog
+2. 虎哥的博客 https://bohutang.me/
+3. 数据库内核月报 http://mysql.taobao.org/monthly/
+4. db-readings https://github.com/rxin/db-readings
+5.  数据库内核月报分类整理 https://github.com/tangwz/db-monthly
+6. pagefault  http://www.pagefault.info/
+7. cmu database group https://db.cs.cmu.edu/
+8. https://xxchan.github.io/
+9. raft 论文 https://github.com/ongardie/dissertation/blob/master/stanford.pdf
+10. https://blog.crazyark.me/ (作者是数据库团队的kubernetes 开发)
+11. MySQL⾼扩展架构设计  http://bos.itdks.com/857528aa120a4b64b141f383d8e38de9.pdf
+12. 张炎泼 http://drmingdrmer.github.io/about.html 
+13. 分布式研究小院 https://blog.openacid.com/
+14.  数据库内核杂谈 https://www.infoq.cn/theme/46
+
+
+
  
 
 ---
